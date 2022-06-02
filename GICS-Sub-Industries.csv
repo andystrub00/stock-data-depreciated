@@ -1,0 +1,124 @@
+Sub-Industry,Ticker List, ,Updated on: 01/06/2022
+Advertising,"['IPG', 'OMC']"
+Alternative Carriers,['LUMN']
+Broadcasting,['WBD']
+Cable & Satellite,"['CHTR', 'CMCSA', 'DISH']"
+Integrated Telecommunication Services,"['T', 'VZ']"
+Interactive Home Entertainment,"['ATVI', 'EA', 'TTWO']"
+Interactive Media & Services,"['GOOGL', 'GOOG', 'MTCH', 'FB', 'TWTR']"
+Movies & Entertainment,"['DIS', 'FOXA', 'FOX', 'LYV', 'NFLX', 'PARA']"
+Publishing,"['NWSA', 'NWS']"
+Wireless Telecommunication Services,['TMUS']
+Apparel Retail,"['ROST', 'TJX']"
+"Apparel, Accessories & Luxury Goods","['NKE', 'PVH', 'RL', 'TPR', 'UAA', 'UA', 'VFC']"
+Auto Parts & Equipment,"['APTV', 'BWA']"
+Automobile Manufacturers,"['F', 'GM', 'TSLA']"
+Automotive Retail,['AAP']
+Casinos & Gaming,"['CZR', 'LVS', 'MGM', 'PENN', 'WYNN']"
+Computer & Electronics Retail,['BBY']
+Consumer Electronics,['GRMN']
+Distributors,"['LKQ', 'POOL']"
+General Merchandise Stores,"['DG', 'DLTR', 'TGT']"
+Home Furnishings,['MHK']
+Home Improvement Retail,"['HD', 'LOW']"
+Homebuilding,"['DHI', 'LEN', 'NVR', 'PHM']"
+"Hotels, Resorts & Cruise Lines","['CCL', 'HLT', 'MAR', 'NCLH', 'RCL']"
+Household Appliances,['WHR']
+Housewares & Specialties,['NWL']
+Internet & Direct Marketing Retail,"['AMZN', 'BKNG', 'EBAY', 'ETSY', 'EXPE']"
+Leisure Products,['HAS']
+Restaurants,"['CMG', 'DRI', 'DPZ', 'MCD', 'SBUX', 'YUM']"
+Specialty Stores,"['AZO', 'BBWI', 'KMX', 'GPC', 'ORLY', 'TSCO', 'ULTA']"
+Agricultural Products,['ADM']
+Brewers,['TAP']
+Distillers & Vintners,"['BF-B', 'STZ']"
+Drug Retail,['WBA']
+Food Distributors,['SYY']
+Food Retail,['KR']
+Household Products,"['CHD', 'CLX', 'CL', 'KMB']"
+Hypermarkets & Super Centers,"['COST', 'WMT']"
+Packaged Foods & Meats,"['CPB', 'CAG', 'GIS', 'HSY', 'HRL', 'K', 'KHC', 'LW', 'MKC', 'MDLZ', 'SJM', 'TSN']"
+Personal Products,"['EL', 'PG']"
+Soft Drinks,"['KO', 'MNST', 'PEP']"
+Tobacco,"['MO', 'PM']"
+Integrated Oil & Gas,"['CVX', 'XOM', 'HES']"
+Oil & Gas Equipment & Services,"['BKR', 'HAL', 'SLB']"
+Oil & Gas Exploration & Production,"['APA', 'COP', 'CTRA', 'DVN', 'FANG', 'EOG', 'MRO', 'OXY', 'PXD']"
+Oil & Gas Refining & Marketing,"['MPC', 'PSX', 'VLO']"
+Oil & Gas Storage & Transportation,"['KMI', 'OKE', 'WMB']"
+Asset Management & Custody Banks,"['AMP', 'BLK', 'BK', 'BEN', 'IVZ', 'NTRS', 'STT', 'TROW']"
+Consumer Finance,"['AXP', 'COF', 'DFS', 'SYF']"
+Diversified Banks,"['BAC', 'C', 'CMA', 'JPM', 'USB', 'WFC']"
+Financial Exchanges & Data,"['CBOE', 'CME', 'FDS', 'ICE', 'MKTX', 'MCO', 'MSCI', 'NDAQ', 'SPGI']"
+Insurance Brokers,"['AON', 'BRO', 'AJG', 'MMC', 'WTW']"
+Investment Banking & Brokerage,"['SCHW', 'GS', 'MS', 'RJF']"
+Life & Health Insurance,"['AFL', 'GL', 'MET', 'PFG', 'PRU']"
+Multi-line Insurance,"['AIZ', 'LNC', 'L']"
+Multi-Sector Holdings,['BRK-B']
+Property & Casualty Insurance,"['AIG', 'ALL', 'WRB', 'CB', 'CINF', 'HIG', 'PGR', 'TRV']"
+Regional Banks,"['CFG', 'FITB', 'FRC', 'HBAN', 'KEY', 'MTB', 'PNC', 'RF', 'SBNY', 'SIVB', 'TFC', 'ZION']"
+Reinsurance,['RE']
+Biotechnology,"['AMGN', 'BIIB', 'GILD', 'INCY', 'MRNA', 'REGN', 'VRTX']"
+Health Care Distributors,"['ABC', 'BMY', 'CAH', 'HSIC', 'MCK', 'WAT']"
+Health Care Equipment,"['ABT', 'ABMD', 'A', 'BAX', 'BDX', 'BSX', 'DHR', 'DXCM', 'EW', 'HOLX', 'IDXX', 'ISRG', 'MDT', 'PKI', 'RMD', 'STE', 'SYK', 'TFX', 'ZBH']"
+Health Care Facilities,"['DVA', 'HCA', 'UHS']"
+Health Care Services,"['CVS', 'LH', 'DGX']"
+Health Care Supplies,"['ALGN', 'COO', 'XRAY', 'WST']"
+Health Care Technology,['CERN']
+Life Sciences Tools & Services,"['BIO', 'TECH', 'CRL', 'ILMN', 'IQV', 'MTD', 'TMO']"
+Managed Health Care,"['ANTM', 'CNC', 'CI', 'HUM', 'MOH', 'UNH']"
+Pharmaceuticals,"['ABBV', 'CTLT', 'JNJ', 'LLY', 'MRK', 'OGN', 'PFE', 'VTRS', 'ZTS']"
+Aerospace & Defense,"['BA', 'GD', 'HWM', 'HII', 'LHX', 'LMT', 'NOC', 'RTX', 'TDY', 'TXT', 'TDG']"
+Agricultural & Farm Machinery,['DE']
+Air Freight & Logistics,"['CHRW', 'EXPD', 'FDX', 'UPS']"
+Airlines,"['ALK', 'AAL', 'DAL', 'LUV', 'UAL']"
+Building Products,"['AOS', 'ALLE', 'CARR', 'FAST', 'FBHS', 'JCI', 'MAS', 'TT']"
+Construction & Engineering,"['J', 'PWR']"
+Construction Machinery & Heavy Trucks,"['CAT', 'PCAR', 'WAB']"
+Diversified Support Services,"['CTAS', 'CPRT', 'LDOS']"
+Electrical Components & Equipment,"['AME', 'ETN', 'EMR', 'GNRC', 'ROK']"
+Environmental & Facilities Services,"['RSG', 'ROL', 'WM']"
+Human Resource & Employment Services,['RHI']
+Industrial Conglomerates,"['MMM', 'GE', 'HON', 'ROP']"
+Industrial Machinery,"['CMI', 'DOV', 'FTV', 'GWW', 'IEX', 'ITW', 'IR', 'NDSN', 'OTIS', 'PH', 'PNR', 'SNA', 'SWK', 'XYL']"
+Railroads,"['CSX', 'NSC', 'UNP']"
+Research & Consulting Services,"['EFX', 'NLSN', 'VRSK']"
+Trading Companies & Distributors,['URI']
+Trucking,"['JBHT', 'ODFL']"
+Application Software,"['ADBE', 'ANSS', 'ADSK', 'CDNS', 'CDAY', 'CTXS', 'INTU', 'NLOK', 'ORCL', 'PAYC', 'PTC', 'CRM', 'SNPS', 'TYL']"
+Communications Equipment,"['ANET', 'CSCO', 'FFIV', 'JNPR', 'MSI']"
+Data Processing & Outsourced Services,"['ADP', 'BR', 'FIS', 'FISV', 'FLT', 'GPN', 'JKHY', 'MA', 'PAYX', 'PYPL', 'V']"
+Electronic Components,"['APH', 'GLW', 'ENPH']"
+Electronic Equipment & Instruments,"['KEYS', 'TRMB', 'ZBRA']"
+Electronic Manufacturing Services,"['IPGP', 'TEL']"
+Internet Services & Infrastructure,"['AKAM', 'VRSN']"
+IT Consulting & Other Services,"['ACN', 'CTSH', 'DXC', 'EPAM', 'IT', 'IBM']"
+Semiconductor Equipment,"['AMAT', 'KLAC', 'LRCX', 'SEDG', 'TER']"
+Semiconductors,"['AMD', 'ADI', 'AVGO', 'INTC', 'MCHP', 'MU', 'MPWR', 'NVDA', 'NXPI', 'QRVO', 'QCOM', 'SWKS', 'TXN']"
+Systems Software,"['FTNT', 'MSFT', 'NOW']"
+Technology Distributors,['CDW']
+"Technology Hardware, Storage & Peripherals","['AAPL', 'HPE', 'HPQ', 'NTAP', 'STX', 'WDC']"
+Commodity Chemicals,['DOW']
+Construction Materials,"['MLM', 'VMC']"
+Copper,['FCX']
+Diversified Chemicals,['EMN']
+Fertilizers & Agricultural Chemicals,"['CF', 'CTVA', 'FMC', 'MOS']"
+Gold,['NEM']
+Industrial Gases,"['APD', 'LIN']"
+Metal & Glass Containers,['BALL']
+Paper Packaging,"['AMCR', 'AVY', 'IP', 'PKG', 'SEE', 'WRK']"
+Specialty Chemicals,"['ALB', 'CE', 'DD', 'ECL', 'IFF', 'LYB', 'PPG', 'SHW']"
+Steel,['NUE']
+Health Care REITs,"['PEAK', 'VTR', 'WELL']"
+Hotel & Resort REITs,['HST']
+Industrial REITs,"['DRE', 'PLD']"
+Office REITs,"['ARE', 'BXP', 'VNO']"
+Real Estate Services,['CBRE']
+Residential REITs,"['AVB', 'CPT', 'EQR', 'ESS', 'MAA', 'UDR']"
+Retail REITs,"['FRT', 'KIM', 'O', 'REG', 'SPG']"
+Specialized REITs,"['AMT', 'CCI', 'DLR', 'EQIX', 'EXR', 'IRM', 'PSA', 'SBAC', 'WY']"
+Electric Utilities,"['LNT', 'AEP', 'ED', 'D', 'DUK', 'EIX', 'ETR', 'EVRG', 'FE', 'PPL', 'PEG', 'SO', 'WEC']"
+Gas Utilities,['ATO']
+Independent Power Producers & Energy Traders,"['AES', 'NRG']"
+Multi-Utilities,"['AEE', 'CNP', 'CMS', 'CEG', 'DTE', 'ES', 'EXC', 'NEE', 'NI', 'PNW', 'SRE', 'XEL']"
+Water Utilities,['AWK']
