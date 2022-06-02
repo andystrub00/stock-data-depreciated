@@ -1,0 +1,505 @@
+Security,Symbol,Shared GICS Sector,Ticks,Shared GICS Sub-Ind.,Ticks,GICS Sector,GICS Sub-Industry,Date first added,Headquarters Location,SEC filings,CIK,Founded
+Interpublic Group,IPG,,,,,Communication Services,Advertising,1992-10-01,"New York City, New York",reports,51644,1961 (1930)
+Omnicom Group,OMC,,,Advertising,,Communication Services,Advertising,,"New York City, New York",reports,29989,1986
+Lumen,LUMN,,,Alternative Carriers,,Communication Services,Alternative Carriers,1999-03-25,"Monroe, Louisiana",reports,18926,1983 (1877)
+Warner Bros. Discovery,WBD,,,Broadcasting,,Communication Services,Broadcasting,2022-04-11,"New York City, New York",reports,1437107,2022
+Charter Communications,CHTR,,,,,Communication Services,Cable & Satellite,2016-09-08,"Stamford, Connecticut",reports,1091667,1993
+Comcast,CMCSA,,,,,Communication Services,Cable & Satellite,2002-11-19,"Philadelphia, Pennsylvania",reports,1166691,1963
+Dish,DISH,,,Cable & Satellite,,Communication Services,Cable & Satellite,2017-03-13,"Meridian, Colorado",reports,1001082,1980
+AT&T,T,,,,,Communication Services,Integrated Telecommunication Services,1983-11-30 (1957-03-04),"Dallas, Texas",reports,732717,1983 (1885)
+Verizon,VZ,,,Integrated Telecommunication Services,,Communication Services,Integrated Telecommunication Services,1983-11-30,"New York City, New York",reports,732712,1983 (1877)
+Activision Blizzard,ATVI,,,,,Communication Services,Interactive Home Entertainment,2015-08-31,"Santa Monica, California",reports,718877,2008
+Electronic Arts,EA,,,,,Communication Services,Interactive Home Entertainment,2002-07-22,"Redwood City, California",reports,712515,1982
+Take-Two Interactive,TTWO,,,Interactive Home Entertainment,,Communication Services,Interactive Home Entertainment,2018-03-19,"New York City, New York",reports,946581,1993
+Alphabet (Class A),GOOGL,,,,,Communication Services,Interactive Media & Services,2014-04-03,"Mountain View, California",reports,1652044,1998
+Alphabet (Class C),GOOG,,,,,Communication Services,Interactive Media & Services,2006-04-03,"Mountain View, California",reports,1652044,1998
+Match Group,MTCH,,,,,Communication Services,Interactive Media & Services,2021-09-20,"Dallas, Texas",reports,891103,1986
+Meta,FB,,,,,Communication Services,Interactive Media & Services,2013-12-23,"Menlo Park, California",reports,1326801,2004
+Twitter,TWTR,,,Interactive Media & Services,,Communication Services,Interactive Media & Services,2018-06-07,"San Francisco, California",reports,1418091,2006
+Disney,DIS,,,,,Communication Services,Movies & Entertainment,1976-06-30,"Burbank, California",reports,1744489,1923
+Fox Corporation (Class A),FOXA,,,,,Communication Services,Movies & Entertainment,2013-07-01,"New York City, New York",reports,1754301,2019
+Fox Corporation (Class B),FOX,,,,,Communication Services,Movies & Entertainment,2015-09-18,"New York City, New York",reports,1754301,2019
+Live Nation Entertainment,LYV,,,,,Communication Services,Movies & Entertainment,2019-12-23,"Beverly Hills, California",reports,1335258,2010
+Netflix,NFLX,,,,,Communication Services,Movies & Entertainment,2010-12-20,"Los Gatos, California",reports,1065280,1997
+Paramount,PARA,,,Movies & Entertainment,,Communication Services,Movies & Entertainment,,"New York City, New York",reports,813828,2019 (1952)
+News Corp (Class A),NWSA,,,,,Communication Services,Publishing,2013-08-01,"New York City, New York",reports,1564708,2013 (1980)
+News Corp (Class B),NWS,,,Publishing,,Communication Services,Publishing,2015-09-18,"New York City, New York",reports,1564708,2013 (1980)
+T-Mobile,TMUS,Communication Services,,Wireless Telecommunication Services,,Communication Services,Wireless Telecommunication Services,2019-07-15,"Bellevue, Washington",reports,1283699,1994
+Ross,ROST,,,,,Consumer Discretionary,Apparel Retail,2009-12-21,"Dublin, California",reports,745732,1982
+TJX Companies,TJX,,,Apparel Retail,,Consumer Discretionary,Apparel Retail,1985-09-30,"Framingham, Massachusetts",reports,109198,1987
+Nike,NKE,,,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1988-11-30,"Washington County, Oregon",reports,320187,1964
+PVH,PVH,,,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2013-02-15,"New York City, New York",reports,78239,1881
+Ralph Lauren,RL,,,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2007-02-02,"New York City, New York",reports,1037038,1967
+Tapestry,TPR,,,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",,"New York City, New York",reports,1116132,2017
+Under Armour (Class A),UAA,,,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2014-05-01,"Baltimore, Maryland",reports,1336917,1996
+Under Armour (Class C),UA,,,,,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",2016-04-08,"Baltimore, Maryland",reports,1336917,1996
+VF Corporation,VFC,,,"Apparel, Accessories & Luxury Goods",,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",1979-06-30,"Denver, Colorado",reports,103379,1899
+Aptiv,APTV,,,,,Consumer Discretionary,Auto Parts & Equipment,2012-12-24,"Dublin, Ireland",reports,1521332,1994
+BorgWarner,BWA,,,Auto Parts & Equipment,,Consumer Discretionary,Auto Parts & Equipment,2011-12-19,"Auburn Hills, Michigan",reports,908255,1880
+Ford,F,,,,,Consumer Discretionary,Automobile Manufacturers,1957-03-04,"Dearborn, Michigan",reports,37996,1903
+GM,GM,,,,,Consumer Discretionary,Automobile Manufacturers,2013-06-06,"Detroit, Michigan",reports,1467858,1908
+Tesla,TSLA,,,Automobile Manufacturers,,Consumer Discretionary,Automobile Manufacturers,2020-12-21,"Palo Alto, California",reports,1318605,2003
+Advance Auto Parts,AAP,,,Automotive Retail,,Consumer Discretionary,Automotive Retail,2015-07-09,"Raleigh, North Carolina",reports,1158449,1932
+Caesars Entertainment,CZR,,,,,Consumer Discretionary,Casinos & Gaming,2021-03-22,"Reno, Nevada",reports,1590895,1973
+Las Vegas Sands,LVS,,,,,Consumer Discretionary,Casinos & Gaming,2019-10-03,"Las Vegas, Nevada",reports,1300514,1988
+MGM Resorts,MGM,,,,,Consumer Discretionary,Casinos & Gaming,2017-07-26,"Paradise, Nevada",reports,789570,1986
+Penn National Gaming,PENN,,,,,Consumer Discretionary,Casinos & Gaming,2021-03-22,"Wyomissing, Pennsylvania",reports,921738,1972
+Wynn Resorts,WYNN,,,Casinos & Gaming,,Consumer Discretionary,Casinos & Gaming,2008-11-14,"Paradise, Nevada",reports,1174922,2002
+Best Buy,BBY,,,Computer & Electronics Retail,,Consumer Discretionary,Computer & Electronics Retail,1999-06-29,"Richfield, Minnesota",reports,764478,1966
+Garmin,GRMN,,,Consumer Electronics,,Consumer Discretionary,Consumer Electronics,2012-12-12,"Schaffhausen, Switzerland",reports,1121788,1989
+LKQ Corporation,LKQ,,,,,Consumer Discretionary,Distributors,2016-05-23,"Chicago, Illinois",reports,1065696,1998
+Pool Corporation,POOL,,,Distributors,,Consumer Discretionary,Distributors,2020-10-07,"Covington, Louisiana",reports,945841,1993
+Dollar General,DG,,,,,Consumer Discretionary,General Merchandise Stores,2012-12-03,"Goodlettsville, Tennessee",reports,29534,1939
+Dollar Tree,DLTR,,,,,Consumer Discretionary,General Merchandise Stores,2011-12-19,"Chesapeake, Virginia",reports,935703,1986
+Target,TGT,,,General Merchandise Stores,,Consumer Discretionary,General Merchandise Stores,1976-12-31,"Minneapolis, Minnesota",reports,27419,1902
+Mohawk Industries,MHK,,,Home Furnishings,,Consumer Discretionary,Home Furnishings,2013-12-23,"Calhoun, Georgia",reports,851968,1878
+Home Depot,HD,,,,,Consumer Discretionary,Home Improvement Retail,1988-03-31,"Atlanta, Georgia",reports,354950,1978
+Lowe's,LOW,,,Home Improvement Retail,,Consumer Discretionary,Home Improvement Retail,1984-02-29,"Mooresville, North Carolina",reports,60667,1904/1946/1959
+D.R. Horton,DHI,,,,,Consumer Discretionary,Homebuilding,2005-06-22,"Arlington, Texas",reports,882184,1978
+Lennar,LEN,,,,,Consumer Discretionary,Homebuilding,2005-10-04,"Miami, Florida",reports,920760,1954
+NVR,NVR,,,,,Consumer Discretionary,Homebuilding,2019-09-26,"Reston, Virginia",reports,906163,1980
+PulteGroup,PHM,,,Homebuilding,,Consumer Discretionary,Homebuilding,1984-04-30,"Atlanta, Georgia",reports,822416,1956
+Carnival,CCL,,,,,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",1998-12-22,"Miami, Florida",reports,815097,1972
+Hilton,HLT,,,,,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2017-06-19,"Tysons Corner, Virginia",reports,1585689,1919
+Marriott International,MAR,,,,,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",,"Bethesda, Maryland",reports,1048286,1927
+Norwegian Cruise Line Holdings,NCLH,,,,,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2017-10-13,"Miami, Florida",reports,1513761,2011 (1966)
+Royal Caribbean Group,RCL,,,"Hotels, Resorts & Cruise Lines",,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",2014-12-05,"Miami, Florida",reports,884887,1997
+Whirlpool,WHR,,,Household Appliances,,Consumer Discretionary,Household Appliances,,"Benton Harbor, Michigan",reports,106640,1911
+Newell Brands,NWL,,,Housewares & Specialties,,Consumer Discretionary,Housewares & Specialties,1989-04-30,"Atlanta, Georgia",reports,814453,1903
+Amazon,AMZN,,,,,Consumer Discretionary,Internet & Direct Marketing Retail,2005-11-18,"Seattle, Washington",reports,1018724,1994
+Booking Holdings,BKNG,,,,,Consumer Discretionary,Internet & Direct Marketing Retail,2009-11-06,"Norwalk, Connecticut",reports,1075531,1996
+eBay,EBAY,,,,,Consumer Discretionary,Internet & Direct Marketing Retail,2002-07-22,"San Jose, California",reports,1065088,1995
+Etsy,ETSY,,,,,Consumer Discretionary,Internet & Direct Marketing Retail,2020-09-21,"New York City, New York",reports,1370637,2005
+Expedia Group,EXPE,,,Internet & Direct Marketing Retail,,Consumer Discretionary,Internet & Direct Marketing Retail,2007-10-02,"Seattle, Washington",reports,1324424,1996
+Hasbro,HAS,,,Leisure Products,,Consumer Discretionary,Leisure Products,1984-09-30,"Pawtucket, Rhode Island",reports,46080,1923
+Chipotle Mexican Grill,CMG,,,,,Consumer Discretionary,Restaurants,2011-04-28,"Newport Beach, California",reports,1058090,1993
+Darden,DRI,,,,,Consumer Discretionary,Restaurants,,"Orlando, Florida",reports,940944,1938
+Domino's,DPZ,,,,,Consumer Discretionary,Restaurants,2020-05-12,"Ann Arbor, Michigan",reports,1286681,1960
+McDonald's,MCD,,,,,Consumer Discretionary,Restaurants,1970-06-30,"Chicago, Illinois",reports,63908,1940
+Starbucks,SBUX,,,,,Consumer Discretionary,Restaurants,2000-06-07,"Seattle, Washington",reports,829224,1971
+Yum! Brands,YUM,,,Restaurants,,Consumer Discretionary,Restaurants,1997-10-06,"Louisville, Kentucky",reports,1041061,1997
+AutoZone,AZO,,,,,Consumer Discretionary,Specialty Stores,1997-01-02,"Memphis, Tennessee",reports,866787,1979
+Bath & Body Works,BBWI,,,,,Consumer Discretionary,Specialty Stores,1983-09-30,"Columbus, Ohio",reports,701985,1963
+CarMax,KMX,,,,,Consumer Discretionary,Specialty Stores,2010-06-28,"Richmond, Virginia",reports,1170010,1993
+Genuine Parts,GPC,,,,,Consumer Discretionary,Specialty Stores,1973-12-31,"Atlanta, Georgia",reports,40987,1925
+O'Reilly Automotive,ORLY,,,,,Consumer Discretionary,Specialty Stores,2009-03-27,"Springfield, Missouri",reports,898173,1957
+Tractor Supply,TSCO,,,,,Consumer Discretionary,Specialty Stores,2014-01-24,"Brentwood, Tennessee",reports,916365,1938
+Ulta Beauty,ULTA,Consumer Discretionary,,Specialty Stores,,Consumer Discretionary,Specialty Stores,2016-04-18,"Bolingbrook, Illinois",reports,1403568,1990
+ADM,ADM,,,Agricultural Products,,Consumer Staples,Agricultural Products,1981-07-29,"Chicago, Illinois",reports,7084,1902
+Molson Coors,TAP,,,Brewers,,Consumer Staples,Brewers,1976-06-30,"Chicago, Illinois",reports,24545,"2005 (Molson 1786, Coors 1873) "
+Brown–Forman,BF-B,,,,,Consumer Staples,Distillers & Vintners,1982-10-31,"Louisville, Kentucky",reports,14693,1870
+Constellation Brands,STZ,,,Distillers & Vintners,,Consumer Staples,Distillers & Vintners,2005-07-01,"Victor, New York",reports,16918,1945
+Walgreens Boots Alliance,WBA,,,Drug Retail,,Consumer Staples,Drug Retail,1979-12-31,"Deerfield, Illinois",reports,1618921,2014
+Sysco,SYY,,,Food Distributors,,Consumer Staples,Food Distributors,1986-12-31,"Houston, Texas",reports,96021,1969
+Kroger,KR,,,Food Retail,,Consumer Staples,Food Retail,1957-03-04,"Cincinnati, Ohio",reports,56873,1883
+Church & Dwight,CHD,,,,,Consumer Staples,Household Products,2015-12-29,"Ewing, New Jersey",reports,313927,1847
+Clorox,CLX,,,,,Consumer Staples,Household Products,1969-03-31,"Oakland, California",reports,21076,1913
+Colgate-Palmolive,CL,,,,,Consumer Staples,Household Products,1957-03-04,"New York City, New York",reports,21665,1806
+Kimberly-Clark,KMB,,,Household Products,,Consumer Staples,Household Products,1957-03-04,"Irving, Texas",reports,55785,1872
+Costco,COST,,,,,Consumer Staples,Hypermarkets & Super Centers,1993-10-01,"Issaquah, Washington",reports,909832,1976
+Walmart,WMT,,,Hypermarkets & Super Centers,,Consumer Staples,Hypermarkets & Super Centers,1982-08-31,"Bentonville, Arkansas",reports,104169,1962
+Campbell's,CPB,,,,,Consumer Staples,Packaged Foods & Meats,1957-03-04,"Camden, New Jersey",reports,16732,1869
+Conagra Brands,CAG,,,,,Consumer Staples,Packaged Foods & Meats,1983-08-31,"Chicago, Illinois",reports,23217,1919
+General Mills,GIS,,,,,Consumer Staples,Packaged Foods & Meats,1969-03-31,"Golden Valley, Minnesota",reports,40704,1856
+Hershey's,HSY,,,,,Consumer Staples,Packaged Foods & Meats,1957-03-04,"Hershey, Pennsylvania",reports,47111,1894
+Hormel,HRL,,,,,Consumer Staples,Packaged Foods & Meats,2009-03-04,"Austin, Minnesota",reports,48465,1891
+Kellogg's,K,,,,,Consumer Staples,Packaged Foods & Meats,1989-09-11,"Battle Creek, Michigan",reports,55067,1906
+Kraft Heinz,KHC,,,,,Consumer Staples,Packaged Foods & Meats,2015-07-06,"Chicago, Illinois; Pittsburgh, Pennsylvania",reports,1637459,2015 (1869)
+Lamb Weston,LW,,,,,Consumer Staples,Packaged Foods & Meats,2018-12-03,"Eagle, Idaho",reports,1679273,2016 (1950)
+McCormick,MKC,,,,,Consumer Staples,Packaged Foods & Meats,2003-03-20,"Hunt Valley, Maryland",reports,63754,1889
+Mondelez International,MDLZ,,,,,Consumer Staples,Packaged Foods & Meats,2012-10-02,"Chicago, Illinois",reports,1103982,2012
+Smucker,SJM,,,,,Consumer Staples,Packaged Foods & Meats,2008-11-06,"Orrville, Ohio",reports,91419,1897
+Tyson,TSN,,,Packaged Foods & Meats,,Consumer Staples,Packaged Foods & Meats,2005-08-10,"Springdale, Arkansas",reports,100493,1935
+Estée Lauder Companies,EL,,,,,Consumer Staples,Personal Products,2006-01-05,"New York City, New York",reports,1001250,1946
+Procter & Gamble,PG,,,Personal Products,,Consumer Staples,Personal Products,1957-03-04,"Cincinnati, Ohio",reports,80424,1837
+Coca-Cola,KO,,,,,Consumer Staples,Soft Drinks,1957-03-04,"Atlanta, Georgia",reports,21344,1886
+Monster Beverage,MNST,,,,,Consumer Staples,Soft Drinks,2012-06-28,"Corona, California",reports,865752,2012 (1935)
+PepsiCo,PEP,,,Soft Drinks,,Consumer Staples,Soft Drinks,1957-03-04,"Purchase, New York",reports,77476,1898
+Altria,MO,,,,,Consumer Staples,Tobacco,1957-03-04,"Richmond, Virginia",reports,764180,1985
+Philip Morris International,PM,Consumer Staples,,Tobacco,,Consumer Staples,Tobacco,2008-03-31,"New York City, New York",reports,1413329,2008 (1847)
+Chevron,CVX,,,,,Energy,Integrated Oil & Gas,1957-03-04,"San Ramon, California",reports,93410,1879
+ExxonMobil,XOM,,,,,Energy,Integrated Oil & Gas,1957-03-04,"Irving, Texas",reports,34088,1999
+Hess,HES,,,Integrated Oil & Gas,,Energy,Integrated Oil & Gas,1984-05-31,"New York City, New York",reports,4447,1919
+Baker Hughes,BKR,,,,,Energy,Oil & Gas Equipment & Services,2017-07-07,"Houston, Texas",reports,1701605,2017
+Halliburton,HAL,,,,,Energy,Oil & Gas Equipment & Services,1957-03-04,"Houston, Texas",reports,45012,1919
+Schlumberger,SLB,,,Oil & Gas Equipment & Services,,Energy,Oil & Gas Equipment & Services,1965-03-31,"Curaçao, Kingdom of the Netherlands",reports,87347,1926
+APA Corporation,APA,,,,,Energy,Oil & Gas Exploration & Production,1997-07-28,"Houston, Texas",reports,6769,1954
+ConocoPhillips,COP,,,,,Energy,Oil & Gas Exploration & Production,1957-03-04,"Houston, Texas",reports,1163165,2002
+Coterra,CTRA,,,,,Energy,Oil & Gas Exploration & Production,2008-06-23,"Houston, Texas",reports,858470,2021 (1989)
+Devon,DVN,,,,,Energy,Oil & Gas Exploration & Production,2000-08-30,"Oklahoma City, Oklahoma",reports,1090012,1971
+Diamondback,FANG,,,,,Energy,Oil & Gas Exploration & Production,2018-12-03,"Midland, Texas",reports,1539838,2007
+EOG Resources,EOG,,,,,Energy,Oil & Gas Exploration & Production,2000-11-02,"Houston, Texas",reports,821189,1999
+Marathon Oil,MRO,,,,,Energy,Oil & Gas Exploration & Production,1991-05-01,"Houston, Texas",reports,101778,1887
+Occidental Petroleum,OXY,,,,,Energy,Oil & Gas Exploration & Production,1982-12-31,"Houston, Texas",reports,797468,1920
+Pioneer Natural Resources,PXD,,,Oil & Gas Exploration & Production,,Energy,Oil & Gas Exploration & Production,2008-09-24,"Irving, Texas",reports,1038357,1997
+Marathon Petroleum,MPC,,,,,Energy,Oil & Gas Refining & Marketing,2011-07-01,"Findlay, Ohio",reports,1510295,2009 (1887)
+Phillips 66,PSX,,,,,Energy,Oil & Gas Refining & Marketing,2012-05-01,"Houston, Texas",reports,1534701,2012 (1917)
+Valero,VLO,,,Oil & Gas Refining & Marketing,,Energy,Oil & Gas Refining & Marketing,,"San Antonio, Texas",reports,1035002,1980
+Kinder Morgan,KMI,,,,,Energy,Oil & Gas Storage & Transportation,2012-05-25,"Houston, Texas",reports,1506307,1997
+Oneok,OKE,,,,,Energy,Oil & Gas Storage & Transportation,2010-03-15,"Tulsa, Oklahoma",reports,1039684,1906
+Williams,WMB,Energy,,Oil & Gas Storage & Transportation,,Energy,Oil & Gas Storage & Transportation,1975-03-31,"Tulsa, Oklahoma",reports,107263,1908
+Ameriprise Financial,AMP,,,,,Financials,Asset Management & Custody Banks,2005-10-03,"Minneapolis, Minnesota",reports,820027,1894
+BlackRock,BLK,,,,,Financials,Asset Management & Custody Banks,2011-04-04,"New York City, New York",reports,1364742,1988
+BNY Mellon,BK,,,,,Financials,Asset Management & Custody Banks,1995-03-31,"New York City, New York",reports,1390777,1784
+Franklin Templeton,BEN,,,,,Financials,Asset Management & Custody Banks,,"San Mateo, California",reports,38777,1947
+Invesco,IVZ,,,,,Financials,Asset Management & Custody Banks,2008-08-21,"Atlanta, Georgia",reports,914208,1935
+Northern Trust,NTRS,,,,,Financials,Asset Management & Custody Banks,,"Chicago, Illinois",reports,73124,1889
+State Street,STT,,,,,Financials,Asset Management & Custody Banks,,"Boston, Massachusetts",reports,93751,1792
+T. Rowe Price,TROW,,,Asset Management & Custody Banks,,Financials,Asset Management & Custody Banks,,"Baltimore, Maryland",reports,1113169,1937
+American Express,AXP,,,,,Financials,Consumer Finance,1976-06-30,"New York City, New York",reports,4962,1850
+Capital One,COF,,,,,Financials,Consumer Finance,1998-07-01,"Tysons Corner, Virginia",reports,927628,1994
+Discover,DFS,,,,,Financials,Consumer Finance,2007-07-02,"Riverwoods, Illinois",reports,1393612,1985
+Synchrony,SYF,,,Consumer Finance,,Financials,Consumer Finance,2015-11-18,"Stamford, Connecticut",reports,1601712,2003
+Bank of America,BAC,,,,,Financials,Diversified Banks,1976-06-30,"Charlotte, North Carolina",reports,70858,1998 (1923 / 1874)
+Citigroup,C,,,,,Financials,Diversified Banks,1988-05-31,"New York City, New York",reports,831001,1998
+Comerica,CMA,,,,,Financials,Diversified Banks,1995-12-01,"Dallas, Texas",reports,28412,1849
+JPMorgan Chase,JPM,,,,,Financials,Diversified Banks,1975-06-30,"New York City, New York",reports,19617,2000 (1799 / 1871)
+U.S. Bank,USB,,,,,Financials,Diversified Banks,,"Minneapolis, Minnesota",reports,36104,1968
+Wells Fargo,WFC,,,Diversified Banks,,Financials,Diversified Banks,1976-06-30,"San Francisco, California",reports,72971,1852
+Cboe,CBOE,,,,,Financials,Financial Exchanges & Data,2017-03-01,"Chicago, Illinois",reports,1374310,1973
+CME Group,CME,,,,,Financials,Financial Exchanges & Data,2006-08-11,"Chicago, Illinois",reports,1156375,1848
+FactSet,FDS,,,,,Financials,Financial Exchanges & Data,2021-12-20,"Norwalk, Connecticut",reports,1013237,1978
+Intercontinental Exchange,ICE,,,,,Financials,Financial Exchanges & Data,2007-09-26,"Atlanta, Georgia",reports,1571949,2000
+MarketAxess,MKTX,,,,,Financials,Financial Exchanges & Data,2019-07-01,"New York City, New York",reports,1278021,2000
+Moody's,MCO,,,,,Financials,Financial Exchanges & Data,,"New York City, New York",reports,1059556,1909
+MSCI,MSCI,,,,,Financials,Financial Exchanges & Data,2018-04-04,"New York City, New York",reports,1408198,1969
+Nasdaq,NDAQ,,,,,Financials,Financial Exchanges & Data,2008-10-22,"New York City, New York",reports,1120193,1971
+S&P Global,SPGI,,,Financial Exchanges & Data,,Financials,Financial Exchanges & Data,,"New York City, New York",reports,64040,1917
+Aon,AON,,,,,Financials,Insurance Brokers,1996-04-23,"London, UK",reports,315293,1982 (1919)
+Brown & Brown,BRO,,,,,Financials,Insurance Brokers,2021-09-20,"Daytona Beach, Florida",reports,79282,1939
+Gallagher,AJG,,,,,Financials,Insurance Brokers,2016-05-31,"Rolling Meadows, Illinois",reports,354190,1927
+Marsh & McLennan,MMC,,,,,Financials,Insurance Brokers,1987-08-31,"New York City, New York",reports,62709,1905
+Willis Towers Watson,WTW,,,Insurance Brokers,,Financials,Insurance Brokers,2016-01-05,"London, United Kingdom",reports,1140536,2016
+Charles Schwab,SCHW,,,,,Financials,Investment Banking & Brokerage,1997-06-02,"Westlake, Texas",reports,316709,1971
+Goldman Sachs,GS,,,,,Financials,Investment Banking & Brokerage,2002-07-22,"New York City, New York",reports,886982,1869
+Morgan Stanley,MS,,,,,Financials,Investment Banking & Brokerage,,"New York City, New York",reports,895421,1935
+Raymond James,RJF,,,Investment Banking & Brokerage,,Financials,Investment Banking & Brokerage,2017-03-20,"St. Petersburg, Florida",reports,720005,1962
+Aflac,AFL,,,,,Financials,Life & Health Insurance,1999-05-28,"Columbus, Georgia",reports,4977,1955
+Globe Life,GL,,,,,Financials,Life & Health Insurance,1989-04-30,"McKinney, Texas",reports,320335,1900
+MetLife,MET,,,,,Financials,Life & Health Insurance,,"New York City, New York",reports,1099219,1868
+Principal,PFG,,,,,Financials,Life & Health Insurance,2002-07-22,"Des Moines, Iowa",reports,1126328,1879
+Prudential,PRU,,,Life & Health Insurance,,Financials,Life & Health Insurance,2002-07-22,"Newark, New Jersey",reports,1137774,1875
+Assurant,AIZ,,,,,Financials,Multi-line Insurance,2007-04-10,"New York City, New York",reports,1267238,1892
+Lincoln Financial,LNC,,,,,Financials,Multi-line Insurance,1976-06-30,"Radnor, Pennsylvania",reports,59558,1905
+Loews Corporation,L,,,Multi-line Insurance,,Financials,Multi-line Insurance,,"New York City, New York",reports,60086,1959
+Berkshire Hathaway,BRK-B,,,Multi-Sector Holdings,,Financials,Multi-Sector Holdings,2010-02-16,"Omaha, Nebraska",reports,1067983,1839
+AIG,AIG,,,,,Financials,Property & Casualty Insurance,1980-03-31,"New York City, New York",reports,5272,1919
+Allstate,ALL,,,,,Financials,Property & Casualty Insurance,1995-07-13,"Northfield Township, Illinois",reports,899051,1931
+Berkley,WRB,,,,,Financials,Property & Casualty Insurance,2019-12-05,"Greenwich, Connecticut",reports,11544,1967
+Chubb,CB,,,,,Financials,Property & Casualty Insurance,2010-07-15,"Zurich, Switzerland",reports,896159,1985
+Cincinnati Financial,CINF,,,,,Financials,Property & Casualty Insurance,1997-12-18,"Fairfield, Ohio",reports,20286,1950
+Hartford (The),HIG,,,,,Financials,Property & Casualty Insurance,1957-03-04,"Hartford, Connecticut",reports,874766,1810
+Progressive,PGR,,,,,Financials,Property & Casualty Insurance,1997-08-04,"Mayfield Village, Ohio",reports,80661,1937
+Travelers,TRV,,,Property & Casualty Insurance,,Financials,Property & Casualty Insurance,2002-08-21,"New York City, New York",reports,86312,1853
+Citizens,CFG,,,,,Financials,Regional Banks,2016-01-29,"Providence, Rhode Island",reports,759944,1828
+Fifth Third Bank,FITB,,,,,Financials,Regional Banks,,"Cincinnati, Ohio",reports,35527,1858
+First Republic,FRC,,,,,Financials,Regional Banks,2019-01-02,"San Francisco, California",reports,1132979,1985
+Huntington National Bank,HBAN,,,,,Financials,Regional Banks,,"Columbus, Ohio; Detroit, Michigan",reports,49196,1866
+KeyCorp,KEY,,,,,Financials,Regional Banks,1994-03-01,"Cleveland, Ohio",reports,91576,1825
+M&T Bank,MTB,,,,,Financials,Regional Banks,2004-02-23,"Buffalo, New York",reports,36270,1856
+PNC Financial Services,PNC,,,,,Financials,Regional Banks,1988-04-30,"Pittsburgh, Pennsylvania",reports,713676,1845
+Regions,RF,,,,,Financials,Regional Banks,1998-08-28,"Birmingham, Alabama",reports,1281761,1971
+Signature Bank,SBNY,,,,,Financials,Regional Banks,2021-12-20,"New York City, New York",reports,1288784,2001
+SVB Financial,SIVB,,,,,Financials,Regional Banks,2018-03-19,"Santa Clara, California",reports,719739,1983
+Truist,TFC,,,,,Financials,Regional Banks,1997-12-04,"Charlotte, North Carolina",reports,92230,1872
+Zions Bancorp,ZION,,,Regional Banks,,Financials,Regional Banks,2001-06-22,"Salt Lake City, Utah",reports,109380,1873
+Everest,RE,Financials,,Reinsurance,,Financials,Reinsurance,2017-06-19,"Hamilton, Bermuda",reports,1095073,1973
+Amgen,AMGN,,,,,Health Care,Biotechnology,1992-01-02,"Thousand Oaks, California",reports,318154,1980
+Biogen,BIIB,,,,,Health Care,Biotechnology,2003-11-13,"Cambridge, Massachusetts",reports,875045,1978
+Gilead,GILD,,,,,Health Care,Biotechnology,2004-07-01,"Foster City, California",reports,882095,1987
+Incyte,INCY,,,,,Health Care,Biotechnology,2017-02-28,"Wilmington, Delaware",reports,879169,1991
+Moderna,MRNA,,,,,Health Care,Biotechnology,2021-07-21,"Cambridge, Massachusetts",reports,1682852,2010
+Regeneron,REGN,,,,,Health Care,Biotechnology,2013-05-01,"Tarrytown, New York",reports,872589,1988
+Vertex,VRTX,,,Biotechnology,,Health Care,Biotechnology,2013-09-23,"Cambridge, Massachusetts",reports,875320,1989
+AmerisourceBergen,ABC,,,,,Health Care,Health Care Distributors,2001-08-30,"Chesterbrook, Pennsylvania",reports,1140859,1985
+Bristol Myers Squibb,BMY,,,,,Health Care,Health Care Distributors,1957-03-04,"New York City, New York",reports,14272,1989
+Cardinal Health,CAH,,,,,Health Care,Health Care Distributors,1997-05-27,"Dublin, Ohio",reports,721371,1971
+Henry Schein,HSIC,,,,,Health Care,Health Care Distributors,2015-03-17,"Melville, New York",reports,1000228,1932
+McKesson,MCK,,,,,Health Care,Health Care Distributors,,"Irving, Texas",reports,927653,1833
+Waters,WAT,,,Health Care Distributors,,Health Care,Health Care Distributors,,"Milford, Massachusetts",reports,1000697,1958
+Abbott,ABT,,,,,Health Care,Health Care Equipment,1964-03-31,"North Chicago, Illinois",reports,1800,1888
+Abiomed,ABMD,,,,,Health Care,Health Care Equipment,2018-05-31,"Danvers, Massachusetts",reports,815094,1981
+Agilent Technologies,A,,,,,Health Care,Health Care Equipment,2000-06-05,"Santa Clara, California",reports,1090872,1999
+Baxter,BAX,,,,,Health Care,Health Care Equipment,1972-09-30,"Deerfield, Illinois",reports,10456,1931
+Becton Dickinson,BDX,,,,,Health Care,Health Care Equipment,1972-09-30,"Franklin Lakes, New Jersey",reports,10795,1897
+Boston Scientific,BSX,,,,,Health Care,Health Care Equipment,1995-02-24,"Marlborough, Massachusetts[4]",reports,885725,1979
+Danaher,DHR,,,,,Health Care,Health Care Equipment,,"Washington, D.C.",reports,313616,1969
+DexCom,DXCM,,,,,Health Care,Health Care Equipment,2020-05-12,"San Diego, California",reports,1093557,1999
+Edwards Lifesciences,EW,,,,,Health Care,Health Care Equipment,2011-04-01,"Irvine, California",reports,1099800,1958
+Hologic,HOLX,,,,,Health Care,Health Care Equipment,2016-03-30,"Marlborough, Massachusetts",reports,859737,1985
+Idexx Laboratories,IDXX,,,,,Health Care,Health Care Equipment,2017-01-05,"Westbrook, Maine",reports,874716,1983
+Intuitive Surgical,ISRG,,,,,Health Care,Health Care Equipment,2008-06-02,"Sunnyvale, California",reports,1035267,1995
+Medtronic,MDT,,,,,Health Care,Health Care Equipment,1986-10-31,"Dublin, Ireland",reports,1613103,1949
+PerkinElmer,PKI,,,,,Health Care,Health Care Equipment,1985-05-31,"Waltham, Massachusetts",reports,31791,1937
+ResMed,RMD,,,,,Health Care,Health Care Equipment,2017-07-26,"San Diego, California",reports,943819,1989
+Steris,STE,,,,,Health Care,Health Care Equipment,2019-12-23,"Dublin, Ireland",reports,1757898,1985
+Stryker,SYK,,,,,Health Care,Health Care Equipment,2000-12-12,"Kalamazoo, Michigan",reports,310764,1941
+Teleflex,TFX,,,,,Health Care,Health Care Equipment,2019-01-18,"Wayne, Pennsylvania",reports,96943,1943
+Zimmer Biomet,ZBH,,,Health Care Equipment,,Health Care,Health Care Equipment,2001-08-07,"Warsaw, Indiana",reports,1136869,1927
+DaVita,DVA,,,,,Health Care,Health Care Facilities,2008-07-31,"Denver, Colorado",reports,927066,1979
+HCA Healthcare,HCA,,,,,Health Care,Health Care Facilities,2015-01-27,"Nashville, Tennessee",reports,860730,1968
+Universal Health Services,UHS,,,Health Care Facilities,,Health Care,Health Care Facilities,2014-09-20,"King of Prussia, Pennsylvania",reports,352915,1979
+CVS Health,CVS,,,,,Health Care,Health Care Services,1957-03-04,"Woonsocket, Rhode Island",reports,64803,1996
+LabCorp,LH,,,,,Health Care,Health Care Services,2004-11-01,"Burlington, North Carolina",reports,920148,1978
+Quest Diagnostics,DGX,,,Health Care Services,,Health Care,Health Care Services,2002-12-12,"Secaucus, New Jersey",reports,1022079,1967
+Align,ALGN,,,,,Health Care,Health Care Supplies,2017-06-19,"San Jose, California",reports,1097149,1997
+CooperCompanies,COO,,,,,Health Care,Health Care Supplies,2016-09-23,"San Ramon, California",reports,711404,1958
+Dentsply Sirona,XRAY,,,,,Health Care,Health Care Supplies,2008-11-14,"Charlotte, North Carolina",reports,818479,2016 (1969)
+West Pharmaceutical Services,WST,,,Health Care Supplies,,Health Care,Health Care Supplies,2020-05-22,"Exton, Pennsylvania",reports,105770,1923
+Cerner,CERN,,,Health Care Technology,,Health Care,Health Care Technology,2010-04-30,"North Kansas City, Missouri",reports,804753,1979
+Bio-Rad,BIO,,,,,Health Care,Life Sciences Tools & Services,2020-06-22,"Hercules, California",reports,12208,1952
+Bio-Techne,TECH,,,,,Health Care,Life Sciences Tools & Services,2021-08-30,"Minneapolis, Minnesota",reports,842023,1976
+Charles River,CRL,,,,,Health Care,Life Sciences Tools & Services,2021-05-14,"Wilmington, Massachusetts",reports,1100682,1947
+Illumina,ILMN,,,,,Health Care,Life Sciences Tools & Services,2015-11-19,"San Diego, California",reports,1110803,1998
+IQVIA,IQV,,,,,Health Care,Life Sciences Tools & Services,2017-08-29,"Durham, North Carolina",reports,1478242,1982
+Mettler Toledo,MTD,,,,,Health Care,Life Sciences Tools & Services,2016-09-06,"Columbus, Ohio",reports,1037646,1945
+Thermo Fisher Scientific,TMO,,,Life Sciences Tools & Services,,Health Care,Life Sciences Tools & Services,2004-08-03,"Waltham, Massachusetts",reports,97745,2006 (1902)
+Anthem,ANTM,,,,,Health Care,Managed Health Care,2002-07-25,"Indianapolis, Indiana",reports,1156039,2014 (1946)
+Centene,CNC,,,,,Health Care,Managed Health Care,2016-03-30,"St. Louis, Missouri",reports,1071739,1984
+Cigna,CI,,,,,Health Care,Managed Health Care,1976-06-30,"Bloomfield, Connecticut",reports,1739940,1982
+Humana,HUM,,,,,Health Care,Managed Health Care,,"Louisville, Kentucky",reports,49071,1961
+Molina Healthcare,MOH,,,,,Health Care,Managed Health Care,2022-03-02,"Long Beach, California",reports,1179929,1980
+UnitedHealth Group,UNH,,,Managed Health Care,,Health Care,Managed Health Care,1994-07-01,"Minnetonka, Minnesota",reports,731766,1977
+AbbVie,ABBV,,,,,Health Care,Pharmaceuticals,2012-12-31,"North Chicago, Illinois",reports,1551152,2013 (1888)
+Catalent,CTLT,,,,,Health Care,Pharmaceuticals,2020-09-21,"Somerset, New Jersey",reports,1596783,2007
+Johnson & Johnson,JNJ,,,,,Health Care,Pharmaceuticals,1973-06-30,"New Brunswick, New Jersey",reports,200406,1886
+Lilly,LLY,,,,,Health Care,Pharmaceuticals,1970-12-31,"Indianapolis, Indiana",reports,59478,1876
+Merck,MRK,,,,,Health Care,Pharmaceuticals,1957-03-04,"Kenilworth, New Jersey",reports,310158,1891
+Organon,OGN,,,,,Health Care,Pharmaceuticals,2021-06-03,"Jersey City, New Jersey",reports,1821825,2021
+Pfizer,PFE,,,,,Health Care,Pharmaceuticals,1957-03-04,"New York City, New York",reports,78003,1849
+Viatris,VTRS,,,,,Health Care,Pharmaceuticals,2004-04-23,"Pittsburgh, Pennsylvania",reports,1792044,1961
+Zoetis,ZTS,Health Care,,Pharmaceuticals,,Health Care,Pharmaceuticals,2013-06-21,"Parsippany, New Jersey",reports,1555280,1952
+Boeing,BA,,,,,Industrials,Aerospace & Defense,1957-03-04,"Chicago, Illinois",reports,12927,1916
+General Dynamics,GD,,,,,Industrials,Aerospace & Defense,1957-03-04,"Falls Church, Virginia",reports,40533,1899
+Howmet Aerospace,HWM,,,,,Industrials,Aerospace & Defense,1964-03-31,"Pittsburgh, Pennsylvania",reports,4281,2016
+Huntington Ingalls Industries,HII,,,,,Industrials,Aerospace & Defense,2018-01-03,"Newport News, Virginia",reports,1501585,2011
+L3Harris,LHX,,,,,Industrials,Aerospace & Defense,2008-09-22,"Melbourne, Florida",reports,202058,2019 (1895)
+Lockheed Martin,LMT,,,,,Industrials,Aerospace & Defense,1984-07-31,"Bethesda, Maryland",reports,936468,1995
+Northrop Grumman,NOC,,,,,Industrials,Aerospace & Defense,1985-06-30,"West Falls Church, Virginia",reports,1133421,"1994 (Northrop 1939, Grumman 1930) "
+Raytheon Technologies,RTX,,,,,Industrials,Aerospace & Defense,,"Waltham, Massachusetts",reports,101829,1922
+Teledyne,TDY,,,,,Industrials,Aerospace & Defense,2020-06-22,"Thousand Oaks, California",reports,1094285,1960
+Textron,TXT,,,,,Industrials,Aerospace & Defense,1978-12-31,"Providence, Rhode Island",reports,217346,1923
+TransDigm,TDG,,,Aerospace & Defense,,Industrials,Aerospace & Defense,2016-06-03,"Cleveland, Ohio",reports,1260221,1993
+Deere & Co.,DE,,,Agricultural & Farm Machinery,,Industrials,Agricultural & Farm Machinery,1957-03-04,"Moline, Illinois",reports,315189,1837
+C.H. Robinson,CHRW,,,,,Industrials,Air Freight & Logistics,2007-03-02,"Eden Prairie, Minnesota",reports,1043277,1905
+Expeditors,EXPD,,,,,Industrials,Air Freight & Logistics,2007-10-10,"Seattle, Washington",reports,746515,1979
+FedEx,FDX,,,,,Industrials,Air Freight & Logistics,1980-12-31,"Memphis, Tennessee",reports,1048911,1971
+United Parcel Service,UPS,,,Air Freight & Logistics,,Industrials,Air Freight & Logistics,2002-07-22,"Sandy Springs, Georgia",reports,1090727,1907
+Alaska Air Group,ALK,,,,,Industrials,Airlines,2016-05-13,"Seattle, Washington",reports,766421,1985
+American Airlines Group,AAL,,,,,Industrials,Airlines,2015-03-23,"Fort Worth, Texas",reports,6201,1934
+Delta Air Lines,DAL,,,,,Industrials,Airlines,2013-09-11,"Atlanta, Georgia",reports,27904,1929
+Southwest Airlines,LUV,,,,,Industrials,Airlines,1994-07-01,"Dallas, Texas",reports,92380,1967
+United Airlines,UAL,,,Airlines,,Industrials,Airlines,2015-09-03,"Chicago, Illinois",reports,100517,1967
+A. O. Smith,AOS,,,,,Industrials,Building Products,2017-07-26,"Milwaukee, Wisconsin",reports,91142,1916
+Allegion,ALLE,,,,,Industrials,Building Products,2013-12-02,"New York City, New York",reports,1579241,1908
+Carrier,CARR,,,,,Industrials,Building Products,2020-04-03,"Palm Beach Gardens, Florida",reports,1783180,2020 (1915)
+Fastenal,FAST,,,,,Industrials,Building Products,2008-09-15,"Winona, Minnesota",reports,815556,1967
+Fortune Brands,FBHS,,,,,Industrials,Building Products,2016-06-22,"Deerfield, Illinois",reports,1519751,2011 (1969)
+Johnson Controls,JCI,,,,,Industrials,Building Products,2010-08-27,"Cork, Ireland",reports,833444,1885
+Masco,MAS,,,,,Industrials,Building Products,1981-06-30,"Livonia, Michigan",reports,62996,1929
+Trane Technologies,TT,,,Building Products,,Industrials,Building Products,2010-11-17,"Dublin, Ireland",reports,1466258,1871
+Jacobs,J,,,,,Industrials,Construction & Engineering,2007-10-26,"Dallas, Texas",reports,52988,1947
+Quanta,PWR,,,Construction & Engineering,,Industrials,Construction & Engineering,2009-07-01,"Houston, Texas",reports,1050915,1997
+Caterpillar,CAT,,,,,Industrials,Construction Machinery & Heavy Trucks,1957-03-04,"Deerfield, Illinois",reports,18230,1925
+Paccar,PCAR,,,,,Industrials,Construction Machinery & Heavy Trucks,1980-12-31,"Bellevue, Washington",reports,75362,1905
+Wabtec,WAB,,,Construction Machinery & Heavy Trucks,,Industrials,Construction Machinery & Heavy Trucks,2019-02-27,"Pittsburgh, Pennsylvania",reports,943452,1999 (1869)
+Cintas,CTAS,,,,,Industrials,Diversified Support Services,2001-03-01,"Mason, Ohio",reports,723254,1929
+Copart,CPRT,,,,,Industrials,Diversified Support Services,2018-07-02,"Dallas, Texas",reports,900075,1982
+Leidos,LDOS,,,Diversified Support Services,,Industrials,Diversified Support Services,2019-08-09,"Reston, Virginia",reports,1336920,1969
+Ametek,AME,,,,,Industrials,Electrical Components & Equipment,2013-09-23,"Berwyn, Pennsylvania",reports,1037868,1930
+Eaton,ETN,,,,,Industrials,Electrical Components & Equipment,,"Dublin, Ireland",reports,1551182,1911
+Emerson,EMR,,,,,Industrials,Electrical Components & Equipment,1965-03-31,"Ferguson, Missouri",reports,32604,1890
+Generac,GNRC,,,,,Industrials,Electrical Components & Equipment,2021-03-22,"Waukesha, Wisconsin",reports,1474735,1959
+Rockwell Automation,ROK,,,Electrical Components & Equipment,,Industrials,Electrical Components & Equipment,,"Milwaukee, Wisconsin",reports,1024478,1903
+Republic Services,RSG,,,,,Industrials,Environmental & Facilities Services,2008-12-05,"Phoenix, Arizona",reports,1060391,1998 (1981)
+Rollins,ROL,,,,,Industrials,Environmental & Facilities Services,2018-10-01,"Atlanta, Georgia",reports,84839,1948
+Waste Management,WM,,,Environmental & Facilities Services,,Industrials,Environmental & Facilities Services,,"Houston, Texas",reports,823768,1968
+Robert Half,RHI,,,Human Resource & Employment Services,,Industrials,Human Resource & Employment Services,2000-12-05,"Menlo Park, California",reports,315213,1948
+3M,MMM,,,,,Industrials,Industrial Conglomerates,1976-08-09,"Saint Paul, Minnesota",reports,66740,1902
+GE,GE,,,,,Industrials,Industrial Conglomerates,,"Boston, Massachusetts",reports,40545,1892
+Honeywell,HON,,,,,Industrials,Industrial Conglomerates,1964-03-31,"Charlotte, North Carolina",reports,773840,1906
+Roper,ROP,,,Industrial Conglomerates,,Industrials,Industrial Conglomerates,2009-12-23,"Sarasota, Florida",reports,882835,1981
+Cummins,CMI,,,,,Industrials,Industrial Machinery,1965-03-31,"Columbus, Indiana",reports,26172,1919
+Dover,DOV,,,,,Industrials,Industrial Machinery,1985-10-31,"Downers Grove, Illinois",reports,29905,1955
+Fortive,FTV,,,,,Industrials,Industrial Machinery,2016-07-01,"Everett, Washington",reports,1659166,2016
+Grainger,GWW,,,,,Industrials,Industrial Machinery,1981-06-30,"Lake Forest, Illinois",reports,277135,1927
+IDEX,IEX,,,,,Industrials,Industrial Machinery,2019-08-09,"Lake Forest, Illinois",reports,832101,1988
+Illinois Tool Works,ITW,,,,,Industrials,Industrial Machinery,1986-02-28,"Glenview, Illinois",reports,49826,1912
+Ingersoll Rand,IR,,,,,Industrials,Industrial Machinery,2020-03-03,"Davidson, North Carolina",reports,1699150,1859
+Nordson,NDSN,,,,,Industrials,Industrial Machinery,2022-02-15,"Westlake, Ohio",reports,72331,1935
+Otis,OTIS,,,,,Industrials,Industrial Machinery,2020-04-03,"Farmington, Connecticut",reports,1781335,2020 (1853)
+Parker,PH,,,,,Industrials,Industrial Machinery,1985-11-30,"Cleveland, Ohio",reports,76334,1917
+Pentair,PNR,,,,,Industrials,Industrial Machinery,2012-10-01,"Worsley, United Kingdom",reports,77360,1966
+Snap-on,SNA,,,,,Industrials,Industrial Machinery,1982-09-30,"Kenosha, Wisconsin",reports,91440,1920
+Stanley Black & Decker,SWK,,,,,Industrials,Industrial Machinery,1982-09-30,"New Britain, Connecticut",reports,93556,1843
+Xylem,XYL,,,Industrial Machinery,,Industrials,Industrial Machinery,2011-11-01,"White Plains, New York",reports,1524472,2011
+CSX,CSX,,,,,Industrials,Railroads,1967-09-30,"Jacksonville, Florida",reports,277948,1980
+Norfolk Southern,NSC,,,,,Industrials,Railroads,1957-03-04,"Norfolk, Virginia",reports,702165,1881/1894 (1980)
+Union Pacific,UNP,,,Railroads,,Industrials,Railroads,1957-03-04,"Omaha, Nebraska",reports,100885,1862
+Equifax,EFX,,,,,Industrials,Research & Consulting Services,1997-06-19,"Atlanta, Georgia",reports,33185,1899
+Nielsen,NLSN,,,,,Industrials,Research & Consulting Services,2013-07-09,"New York City, New York",reports,1492633,1923
+Verisk,VRSK,,,Research & Consulting Services,,Industrials,Research & Consulting Services,2015-10-08,"Jersey City, New Jersey",reports,1442145,1971
+United Rentals,URI,,,Trading Companies & Distributors,,Industrials,Trading Companies & Distributors,2014-09-20,"Stamford, Connecticut",reports,1067701,1997
+J.B. Hunt,JBHT,,,,,Industrials,Trucking,2015-07-01,"Lowell, Arkansas",reports,728535,1961
+Old Dominion,ODFL,Industrials,,Trucking,,Industrials,Trucking,2019-12-09,"Thomasville, North Carolina",reports,878927,1934
+Adobe,ADBE,,,,,Information Technology,Application Software,1997-05-05,"San Jose, California",reports,796343,1982
+Ansys,ANSS,,,,,Information Technology,Application Software,2017-06-19,"Canonsburg, Pennsylvania",reports,1013462,1969
+Autodesk,ADSK,,,,,Information Technology,Application Software,1989-12-01,"San Rafael, California",reports,769397,1982
+Cadence,CDNS,,,,,Information Technology,Application Software,2017-09-18,"San Jose, California",reports,813672,1988
+Ceridian,CDAY,,,,,Information Technology,Application Software,2021-09-20,"Minneapolis, Minnesota",reports,1725057,1992
+Citrix,CTXS,,,,,Information Technology,Application Software,1999-12-01,"Fort Lauderdale, Florida",reports,877890,1989
+Intuit,INTU,,,,,Information Technology,Application Software,2000-12-05,"Mountain View, California",reports,896878,1983
+NortonLifeLock,NLOK,,,,,Information Technology,Application Software,2003-03-25,"Tempe, Arizona",reports,849399,1982
+Oracle,ORCL,,,,,Information Technology,Application Software,1989-08-31,"Austin, Texas",reports,1341439,1977
+Paycom,PAYC,,,,,Information Technology,Application Software,2020-01-28,"Oklahoma City, Oklahoma",reports,1590955,1998
+PTC,PTC,,,,,Information Technology,Application Software,2021-04-20,"Boston, Massachusetts",reports,857005,1985
+Salesforce,CRM,,,,,Information Technology,Application Software,2008-09-15,"San Francisco, California",reports,1108524,1999
+Synopsys,SNPS,,,,,Information Technology,Application Software,2017-03-16,"Mountain View, California",reports,883241,1986
+Tyler Technologies,TYL,,,Application Software,,Information Technology,Application Software,2020-06-22,"Plano, Texas",reports,860731,1966
+Arista,ANET,,,,,Information Technology,Communications Equipment,2018-08-28,"Santa Clara, California",reports,1596532,2004
+Cisco,CSCO,,,,,Information Technology,Communications Equipment,1993-12-01,"San Jose, California",reports,858877,1984
+F5,FFIV,,,,,Information Technology,Communications Equipment,2010-12-20,"Seattle, Washington",reports,1048695,1996
+Juniper Networks,JNPR,,,,,Information Technology,Communications Equipment,2006-06-02,"Sunnyvale, California",reports,1043604,1996
+Motorola Solutions,MSI,,,Communications Equipment,,Information Technology,Communications Equipment,,"Chicago, Illinois",reports,68505,1928 (2011)
+ADP,ADP,,,,,Information Technology,Data Processing & Outsourced Services,1981-03-31,"Roseland, New Jersey",reports,8670,1949
+Broadridge,BR,,,,,Information Technology,Data Processing & Outsourced Services,2018-06-18,"Lake Success, New York",reports,1383312,1962
+FIS,FIS,,,,,Information Technology,Data Processing & Outsourced Services,2006-11-10,"Jacksonville, Florida",reports,1136893,1968
+Fiserv,FISV,,,,,Information Technology,Data Processing & Outsourced Services,2001-04-02,"Brookfield, Wisconsin",reports,798354,1984
+Fleetcor,FLT,,,,,Information Technology,Data Processing & Outsourced Services,2018-06-20,"Norcross, Georgia",reports,1175454,2000
+Global Payments,GPN,,,,,Information Technology,Data Processing & Outsourced Services,2016-04-25,"Atlanta, Georgia",reports,1123360,2000
+Jack Henry & Associates,JKHY,,,,,Information Technology,Data Processing & Outsourced Services,2018-11-13,"Monett, Missouri",reports,779152,1976
+Mastercard,MA,,,,,Information Technology,Data Processing & Outsourced Services,2008-07-18,"Harrison, New York",reports,1141391,1966
+Paychex,PAYX,,,,,Information Technology,Data Processing & Outsourced Services,,"Penfield, New York",reports,723531,1971
+PayPal,PYPL,,,,,Information Technology,Data Processing & Outsourced Services,2015-07-20,"San Jose, California",reports,1633917,1998
+Visa,V,,,Data Processing & Outsourced Services,,Information Technology,Data Processing & Outsourced Services,2009-12-21,"San Francisco, California",reports,1403161,1958
+Amphenol,APH,,,,,Information Technology,Electronic Components,2008-09-30,"Wallingford, Connecticut",reports,820313,1932
+Corning,GLW,,,,,Information Technology,Electronic Components,,"Corning, New York",reports,24741,1851
+Enphase,ENPH,,,Electronic Components,,Information Technology,Electronic Components,2021-01-07,"Fremont, California",reports,1463101,2006
+Keysight,KEYS,,,,,Information Technology,Electronic Equipment & Instruments,2018-11-06,"Santa Rosa, California",reports,1601046,2014
+Trimble,TRMB,,,,,Information Technology,Electronic Equipment & Instruments,2021-01-21,"Sunnyvale, California",reports,864749,1978
+Zebra,ZBRA,,,Electronic Equipment & Instruments,,Information Technology,Electronic Equipment & Instruments,2019-12-23,"Lincolnshire, Illinois",reports,877212,1969
+IPG Photonics,IPGP,,,,,Information Technology,Electronic Manufacturing Services,2018-03-07,"Oxford, Massachusetts",reports,1111928,1990
+TE Connectivity,TEL,,,Electronic Manufacturing Services,,Information Technology,Electronic Manufacturing Services,2011-10-17,"Schaffhausen, Switzerland",reports,1385157,2007
+Akamai,AKAM,,,,,Information Technology,Internet Services & Infrastructure,2007-07-12,"Cambridge, Massachusetts",reports,1086222,1998
+Verisign,VRSN,,,Internet Services & Infrastructure,,Information Technology,Internet Services & Infrastructure,2006-02-01,"Dulles, Virginia",reports,1014473,1995
+Accenture,ACN,,,,,Information Technology,IT Consulting & Other Services,2011-07-06,"Dublin, Ireland",reports,1467373,1989
+Cognizant,CTSH,,,,,Information Technology,IT Consulting & Other Services,2006-11-17,"Teaneck, New Jersey",reports,1058290,1994
+DXC Technology,DXC,,,,,Information Technology,IT Consulting & Other Services,2017-04-04,"Tysons Corner, Virginia",reports,1688568,2017
+EPAM,EPAM,,,,,Information Technology,IT Consulting & Other Services,2021-12-14,"Newtown, Pennsylvania",reports,1352010,1993
+Gartner,IT,,,,,Information Technology,IT Consulting & Other Services,2017-04-05,"Stamford, Connecticut",reports,749251,1979
+IBM,IBM,,,IT Consulting & Other Services,,Information Technology,IT Consulting & Other Services,1957-03-04,"Armonk, New York",reports,51143,1911
+Applied Materials,AMAT,,,,,Information Technology,Semiconductor Equipment,1995-03-16,"Santa Clara, California",reports,6951,1967
+KLA,KLAC,,,,,Information Technology,Semiconductor Equipment,,"Milpitas, California",reports,319201,1975/1977 (1997)
+Lam Research,LRCX,,,,,Information Technology,Semiconductor Equipment,2012-06-29,"Fremont, California",reports,707549,1980
+SolarEdge,SEDG,,,,,Information Technology,Semiconductor Equipment,2021-12-20,"Herzliya, Israel",reports,1419612,2006
+Teradyne,TER,,,Semiconductor Equipment,,Information Technology,Semiconductor Equipment,2020-09-21,"North Reading, Massachusetts",reports,97210,1960
+AMD,AMD,,,,,Information Technology,Semiconductors,,"Santa Clara, California",reports,2488,1969
+Analog Devices,ADI,,,,,Information Technology,Semiconductors,1999-10-12,"Wilmington, Massachusetts",reports,6281,1965
+Broadcom,AVGO,,,,,Information Technology,Semiconductors,2014-05-08,"San Jose, California",reports,1730168,1961
+Intel,INTC,,,,,Information Technology,Semiconductors,1976-12-31,"Santa Clara, California",reports,50863,1968
+Microchip,MCHP,,,,,Information Technology,Semiconductors,2007-09-07,"Chandler, Arizona",reports,827054,1989
+Micron,MU,,,,,Information Technology,Semiconductors,1994-09-27,"Boise, Idaho",reports,723125,1978
+Monolithic Power Systems,MPWR,,,,,Information Technology,Semiconductors,2021-02-12,"Kirkland, Washington",reports,1280452,1997
+Nvidia,NVDA,,,,,Information Technology,Semiconductors,2001-11-30,"Santa Clara, California",reports,1045810,1993
+NXP,NXPI,,,,,Information Technology,Semiconductors,2021-03-22,"Eindhoven, Netherlands",reports,1413447,1953
+Qorvo,QRVO,,,,,Information Technology,Semiconductors,2015-06-11,"Greensboro, North Carolina",reports,1604778,2015
+Qualcomm,QCOM,,,,,Information Technology,Semiconductors,,"San Diego, California",reports,804328,1985
+Skyworks,SWKS,,,,,Information Technology,Semiconductors,2015-03-12,"Woburn, Massachusetts",reports,4127,2002
+Texas Instruments,TXN,,,Semiconductors,,Information Technology,Semiconductors,,"Dallas, Texas",reports,97476,1930
+Fortinet,FTNT,,,,,Information Technology,Systems Software,2018-10-11,"Sunnyvale, California",reports,1262039,2000
+Microsoft,MSFT,,,,,Information Technology,Systems Software,1994-06-01,"Redmond, Washington",reports,789019,1975
+ServiceNow,NOW,,,Systems Software,,Information Technology,Systems Software,2019-11-21,"Santa Clara, California",reports,1373715,2003
+CDW,CDW,,,Technology Distributors,,Information Technology,Technology Distributors,2019-09-23,"Lincolnshire, Illinois",reports,1402057,1984
+Apple,AAPL,,,,,Information Technology,"Technology Hardware, Storage & Peripherals",1982-11-30,"Cupertino, California",reports,320193,1977
+Hewlett Packard Enterprise,HPE,,,,,Information Technology,"Technology Hardware, Storage & Peripherals",2015-11-02,"Houston, Texas",reports,1645590,2015
+HP,HPQ,,,,,Information Technology,"Technology Hardware, Storage & Peripherals",1974-12-31,"Palo Alto, California",reports,47217,1939 (2015)
+NetApp,NTAP,,,,,Information Technology,"Technology Hardware, Storage & Peripherals",1999-06-25,"Sunnyvale, California",reports,1002047,1992
+Seagate,STX,,,,,Information Technology,"Technology Hardware, Storage & Peripherals",2012-07-02,"Dublin, Ireland",reports,1137789,1979
+Western Digital,WDC,Information Technology,,"Technology Hardware, Storage & Peripherals",,Information Technology,"Technology Hardware, Storage & Peripherals",2009-07-01,"San Jose, California",reports,106040,1970
+Dow,DOW,,,Commodity Chemicals,,Materials,Commodity Chemicals,2019-04-01,"Midland, Michigan",reports,1751788,2019
+Martin Marietta,MLM,,,,,Materials,Construction Materials,2014-07-02,"Raleigh, North Carolina",reports,916076,1993
+Vulcan Materials,VMC,,,Construction Materials,,Materials,Construction Materials,1999-06-30,"Birmingham, Alabama",reports,1396009,1909
+Freeport-McMoRan,FCX,,,Copper,,Materials,Copper,,"Phoenix, Arizona",reports,831259,1912
+Eastman,EMN,,,Diversified Chemicals,,Materials,Diversified Chemicals,1994-01-01,"Kingsport, Tennessee",reports,915389,1920
+CF Industries,CF,,,,,Materials,Fertilizers & Agricultural Chemicals,2008-08-27,"Deerfield, Illinois",reports,1324404,1946
+Corteva,CTVA,,,,,Materials,Fertilizers & Agricultural Chemicals,2019-06-03,"Wilmington, Delaware",reports,1755672,2019
+FMC,FMC,,,,,Materials,Fertilizers & Agricultural Chemicals,2009-08-19,"Philadelphia, Pennsylvania",reports,37785,1883
+Mosaic,MOS,,,Fertilizers & Agricultural Chemicals,,Materials,Fertilizers & Agricultural Chemicals,2011-09-26,"Tampa, Florida",reports,1285785,2004 (1865 / 1909)
+Newmont,NEM,,,Gold,,Materials,Gold,1969-06-30,"Denver, Colorado",reports,1164727,1921
+Air Products,APD,,,,,Materials,Industrial Gases,1985-04-30,"Allentown, Pennsylvania",reports,2969,1940
+Linde,LIN,,,Industrial Gases,,Materials,Industrial Gases,1992-07-01,"Guildford, United Kingdom",reports,1707925,1879
+Ball,BALL,,,Metal & Glass Containers,,Materials,Metal & Glass Containers,1984-10-31,"Broomfield, Colorado",reports,9389,1880
+Amcor,AMCR,,,,,Materials,Paper Packaging,2019-06-07,"Warmley, Bristol, United Kingdom",reports,1748790,2019 (1860)
+Avery Dennison,AVY,,,,,Materials,Paper Packaging,1987-12-31,"Glendale, California",reports,8818,1990
+International Paper,IP,,,,,Materials,Paper Packaging,1957-03-04,"Memphis, Tennessee",reports,51434,1898
+Packaging Corporation of America,PKG,,,,,Materials,Paper Packaging,2017-07-26,"Lake Forest, Illinois",reports,75677,1959
+Sealed Air,SEE,,,,,Materials,Paper Packaging,1957-03-04,"Charlotte, North Carolina",reports,1012100,1960
+WestRock,WRK,,,Paper Packaging,,Materials,Paper Packaging,,"Atlanta, Georgia",reports,1732845,2015
+Albemarle,ALB,,,,,Materials,Specialty Chemicals,2016-07-01,"Charlotte, North Carolina",reports,915913,1994
+Celanese,CE,,,,,Materials,Specialty Chemicals,2018-12-24,"Irving, Texas",reports,1306830,1918
+DuPont,DD,,,,,Materials,Specialty Chemicals,2019-04-02,"Wilmington, Delaware",reports,1666700,2017
+Ecolab,ECL,,,,,Materials,Specialty Chemicals,1989-01-31,"Saint Paul, Minnesota",reports,31462,1923
+International Flavors & Fragrances,IFF,,,,,Materials,Specialty Chemicals,1976-03-31,"New York City, New York",reports,51253,1958 (1889)
+LyondellBasell,LYB,,,,,Materials,Specialty Chemicals,2012-09-05,"Rotterdam, Netherlands",reports,1489393,2007
+PPG Industries,PPG,,,,,Materials,Specialty Chemicals,1957-03-04,"Pittsburgh, Pennsylvania",reports,79879,1883
+Sherwin-Williams,SHW,,,Specialty Chemicals,,Materials,Specialty Chemicals,1964-06-30,"Cleveland, Ohio",reports,89800,1866
+Nucor,NUE,Materials,,Steel,,Materials,Steel,1985-04-30,"Charlotte, North Carolina",reports,73309,1940
+Healthpeak,PEAK,,,,,Real Estate,Health Care REITs,2008-03-31,"Long Beach, California",reports,765880,1985
+Ventas,VTR,,,,,Real Estate,Health Care REITs,2009-03-04,"Chicago, Illinois",reports,740260,1998
+Welltower,WELL,,,Health Care REITs,,Real Estate,Health Care REITs,2009-01-30,"Toledo, Ohio",reports,766704,1970
+Host Hotels & Resorts,HST,,,Hotel & Resort REITs,,Real Estate,Hotel & Resort REITs,2007-03-20,"Bethesda, Maryland",reports,1070750,1993
+Duke Realty,DRE,,,,,Real Estate,Industrial REITs,2017-07-26,"Indianapolis, Indiana",reports,783280,1972
+Prologis,PLD,,,Industrial REITs,,Real Estate,Industrial REITs,2003-07-17,"San Francisco, California",reports,1045609,1983
+Alexandria,ARE,,,,,Real Estate,Office REITs,2017-03-20,"Pasadena, California",reports,1035443,1994
+Boston Properties,BXP,,,,,Real Estate,Office REITs,2006-04-03,"Boston, Massachusetts",reports,1037540,1970
+Vornado Realty Trust,VNO,,,Office REITs,,Real Estate,Office REITs,2005,"New York City, New York",reports,899689,1982
+CBRE,CBRE,,,Real Estate Services,,Real Estate,Real Estate Services,2006-11-10,"Dallas, Texas",reports,1138118,1906
+AvalonBay Communities,AVB,,,,,Real Estate,Residential REITs,2007-01-10,"Arlington, Virginia[3]",reports,915912,1978
+Camden,CPT,,,,,Real Estate,Residential REITs,2022-04-04,"Houston, Texas",reports,906345,1981
+Equity Residential,EQR,,,,,Real Estate,Residential REITs,2001-12-03,"Chicago, Illinois",reports,906107,1969
+Essex,ESS,,,,,Real Estate,Residential REITs,2014-04-02,"San Mateo, California",reports,920522,1971
+Mid-America Apartments,MAA,,,,,Real Estate,Residential REITs,2016-12-02,"Memphis, Tennessee",reports,912595,1977
+UDR,UDR,,,Residential REITs,,Real Estate,Residential REITs,2016-03-07,"Highlands Ranch, Colorado",reports,74208,1972
+Federal Realty,FRT,,,,,Real Estate,Retail REITs,2016-02-01,"Rockville, Maryland",reports,34903,1962
+Kimco Realty,KIM,,,,,Real Estate,Retail REITs,2006-04-04,"New Hyde Park, New York",reports,879101,1958
+Realty Income,O,,,,,Real Estate,Retail REITs,2015-04-07,"San Diego, California",reports,726728,1969
+Regency Centers,REG,,,,,Real Estate,Retail REITs,2017-03-02,"Jacksonville, Florida",reports,910606,1963
+Simon,SPG,,,Retail REITs,,Real Estate,Retail REITs,2002-06-26,"Indianapolis, Indiana",reports,1063761,2003
+American Tower,AMT,,,,,Real Estate,Specialized REITs,2007-11-19,"Boston, Massachusetts",reports,1053507,1995
+Crown Castle,CCI,,,,,Real Estate,Specialized REITs,2012-03-14,"Houston, Texas",reports,1051470,1994
+Digital Realty,DLR,,,,,Real Estate,Specialized REITs,2016-05-18,"Austin, Texas",reports,1297996,2004
+Equinix,EQIX,,,,,Real Estate,Specialized REITs,2015-03-20,"Redwood City, California",reports,1101239,1998
+Extra Space Storage,EXR,,,,,Real Estate,Specialized REITs,2016-01-19,"Salt Lake City, Utah",reports,1289490,1977
+Iron Mountain,IRM,,,,,Real Estate,Specialized REITs,2009-01-06,"Boston, Massachusetts",reports,1020569,1951
+Public Storage,PSA,,,,,Real Estate,Specialized REITs,2005-08-19,"Glendale, California",reports,1393311,1972
+SBA Communications,SBAC,,,,,Real Estate,Specialized REITs,2017-09-01,"Boca Raton, Florida",reports,1034054,1989
+Weyerhaeuser,WY,Real Estate,,Specialized REITs,,Real Estate,Specialized REITs,,"Seattle, Washington",reports,106535,1900
+Alliant Energy,LNT,,,,,Utilities,Electric Utilities,2016-07-01,"Madison, Wisconsin",reports,352541,1917
+American Electric Power,AEP,,,,,Utilities,Electric Utilities,1957-03-04,"Columbus, Ohio",reports,4904,1906
+Con Edison,ED,,,,,Utilities,Electric Utilities,,"New York City, New York",reports,1047862,1823
+Dominion Energy,D,,,,,Utilities,Electric Utilities,,"Richmond, Virginia",reports,715957,1983
+Duke Energy,DUK,,,,,Utilities,Electric Utilities,1976-06-30,"Charlotte, North Carolina",reports,1326160,1904
+Edison International,EIX,,,,,Utilities,Electric Utilities,1957-03-04,"Rosemead, California",reports,827052,1886
+Entergy,ETR,,,,,Utilities,Electric Utilities,1957-03-04,"New Orleans, Louisiana",reports,65984,1913
+Evergy,EVRG,,,,,Utilities,Electric Utilities,2018-06-05,"Kansas City, Missouri",reports,1711269,1909
+FirstEnergy,FE,,,,,Utilities,Electric Utilities,,"Akron, Ohio",reports,1031296,1997
+PPL,PPL,,,,,Utilities,Electric Utilities,,"Allentown, Pennsylvania",reports,922224,1920
+PSEG,PEG,,,,,Utilities,Electric Utilities,1957-03-04,"Newark, New Jersey",reports,788784,1903
+Southern Company,SO,,,,,Utilities,Electric Utilities,1957-03-04,"Atlanta, Georgia",reports,92122,1945
+WEC Energy Group,WEC,,,Electric Utilities,,Utilities,Electric Utilities,2008-10-31,"Milwaukee, Wisconsin",reports,783325,1896
+Atmos Energy,ATO,,,Gas Utilities,,Utilities,Gas Utilities,2019-02-15,"Dallas, Texas",reports,731802,1906
+AES,AES,,,,,Utilities,Independent Power Producers & Energy Traders,1998-10-02,"Arlington, Virginia",reports,874761,1981
+NRG Energy,NRG,,,Independent Power Producers & Energy Traders,,Utilities,Independent Power Producers & Energy Traders,2010-01-29,"Houston, Texas",reports,1013871,1992
+Ameren,AEE,,,,,Utilities,Multi-Utilities,1991-09-19,"St. Louis, Missouri",reports,1002910,1902
+CenterPoint Energy,CNP,,,,,Utilities,Multi-Utilities,1985-07-31,"Houston, Texas",reports,1130310,1882
+CMS Energy,CMS,,,,,Utilities,Multi-Utilities,1999-05-03,"Jackson, Michigan",reports,811156,1886
+Constellation Energy,CEG,,,,,Utilities,Multi-Utilities,2022-02-02,"Baltimore, Maryland",reports,1868275,1999
+DTE,DTE,,,,,Utilities,Multi-Utilities,1957-03-04,"Detroit, Michigan",reports,936340,1995
+Eversource,ES,,,,,Utilities,Multi-Utilities,2009,"Hartford, Connecticut",reports,72741,1966
+Exelon,EXC,,,,,Utilities,Multi-Utilities,1957-03-04,"Chicago, Illinois",reports,1109357,2000
+NextEra Energy,NEE,,,,,Utilities,Multi-Utilities,1976-06-30,"Juno Beach, Florida",reports,753308,1984 (1925)
+NiSource,NI,,,,,Utilities,Multi-Utilities,,"Merrillville, Indiana",reports,1111711,1912
+Pinnacle West,PNW,,,,,Utilities,Multi-Utilities,,"Phoenix, Arizona",reports,764622,1985
+Sempra Energy,SRE,,,,,Utilities,Multi-Utilities,,"San Diego, California",reports,1032208,1998
+Xcel Energy,XEL,,,Multi-Utilities,,Utilities,Multi-Utilities,1957-03-04,"Minneapolis, Minnesota",reports,72903,1909
+American Water,AWK,Utilities,,Water Utilities,,Utilities,Water Utilities,2016-03-04,"Camden, New Jersey",reports,1410636,1886
